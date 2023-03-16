@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+ 
+}
+.homePage{
+display: flex;
+justify-content: center;
+}
+
+input{
+  width: 300px;
+  border-radius: 5px;
+  height: 30px;
+  font-size: 20px;
+  
+}
+input:active{
+  border: none;
+  background-color: aquamarine;
+}
+input:
+button{
+  border-radius: 5px;
+}
+.homePage table{
+  
+  display: flex;
+  justify-content: center;
+
+}
+.enter{
+  width: 30px;
+  height: 25px;
+  position: relative;
+  top: 9px;
+  left: -27px;
+  cursor: pointer;
+}
+a{
+  
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 800;
+}
+a:hover{
+  position: relative;
+  top: 5px;
+  left: 5px;
+  font-size: 25px;
+}
+td{
+  font-size: 20px;
+  font-weight: 800;
+  font-style: italic;
+ 
+}
+.buttonTD{
+  font-size: 20px;
+  font-weight: 800;
+  border: none;
+  background: none;
+  color: rgb(214, 72, 21);
+  cursor: pointer;
+  
+}
+.deletePage{
+  display: flex;
+  justify-content: center;
+}
+.Tamamlanmis{
+  display: flex;
+  justify-content: center;
+}
+td{
+  border: 2px solid black;
+  border-radius: 5px;
+}
